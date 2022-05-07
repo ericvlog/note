@@ -14,7 +14,7 @@ searcharr_help_command_aliases = ["help"]  # Override /help command
 searcharr_users_command_aliases = ["users"]  # Override /users command
 
 # Telegram
-tgram_token = ""
+tgram_token = "2001554503:AAH1mz3sDU-4oO8lDbm4K4H-wBQIFZN9Tu0"
 
 # Sonarr
 sonarr_enabled = True
